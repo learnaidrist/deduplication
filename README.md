@@ -1,2 +1,4 @@
 # deduplication
-use similarity metric and blocking for deduplication
+uses similarity metric and blocking for deduplication
+
+## Approach https://github.com/learnaidrist/deduplication
